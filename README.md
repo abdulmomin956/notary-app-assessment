@@ -1,3 +1,3 @@
 # Notary app assessment
-[Notary App Assessment](notary-app-assessment.netlify.app)
+[Notary App Assessment](https://notary-app-assessment.netlify.app/)
 
